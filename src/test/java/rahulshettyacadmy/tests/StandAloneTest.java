@@ -14,6 +14,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import junit.framework.Assert;
 
 //import com.beust.jcommander.internal.Console;
+// Create 1st time CICD pipeline  idependently. [SJ 26-03-2024 ]
 
 public class StandAloneTest {
 
